@@ -7,7 +7,7 @@
 "
 
 if exists('g:loaded_aestetics')
-  return final
+  finish
 else
   let g:loaded_aestetics = 1
 endif
