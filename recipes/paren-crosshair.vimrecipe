@@ -1,0 +1,8 @@
+{
+  'name' : 'paren-crosshairs',
+  'path' : 'chreekat/vim-paren-crosshairs',
+  'description' : 'Displays crosshairs on the cursor when moving over parens and other elements of matchpairs',
+  'author' : 'Bryan Richter',
+  'website' : 'https://github.com/chreekat/vim-paren-crosshairs',
+  'script_type' : 'plugin',
+}

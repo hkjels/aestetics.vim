@@ -1,0 +1,8 @@
+{
+  'name' : 'tmuxline',
+  'path' : 'edkolev/tmuxline.vim',
+  'description' : 'Simple tmux statusline generator with support for powerline symbols and airline integration',
+  'author' : 'Evgeni Kolev',
+  'website' : 'https://github.com/edkolev/tmuxline.vim',
+  'script_type' : 'plugin',
+}
