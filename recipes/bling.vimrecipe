@@ -1,8 +1,0 @@
-{
-  'name' : 'bling',
-  'path' : 'ivyl/vim-bling',
-  'description' : 'Blink current search match',
-  'author' : 'Arkadiusz Hiler',
-  'website' : 'https://github.com/ivyl/vim-bling',
-  'script_type' : 'plugin',
-}

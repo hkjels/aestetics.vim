@@ -1,8 +1,0 @@
-{
-  'name' : 'solarized',
-  'path' : 'altercation/vim-colors-solarized',
-  'description' : 'Precision colors for machines and people',
-  'author' : 'Ethan Schoonover',
-  'website' : 'http://ethanschoonover.com/solarized',
-  'script_type' : 'colorscheme',
-}

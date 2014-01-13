@@ -12,6 +12,14 @@ else
   let g:loaded_aestetics = 1
 endif
 
+" Module dependencies -------------------------------------------------- {{{
+  NeoBundle 'altercation/vim-colors-solarized'
+  NeoBundle 'bling/vim-airline'
+  NeoBundle 'edkolev/tmuxline.vim'
+  NeoBundle 'chreekat/vim-paren-crosshairs'
+  NeoBundle 'ivyl/vim-bling'
+" }}}
+
 " Aesthetics ----------------------------------------------------------- {{{
   syntax enable
   set background=dark

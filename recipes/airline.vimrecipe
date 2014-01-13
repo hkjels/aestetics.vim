@@ -1,8 +1,0 @@
-{
-  'name' : 'airline',
-  'path' : 'bling/vim-airline',
-  'description' : 'lean & mean status/tabline for vim thats light as air',
-  'author' : 'bailey ling',
-  'website' : 'https://github.com/bling/vim-airline',
-  'script_type' : 'plugin',
-}
